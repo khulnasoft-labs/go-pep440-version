@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/khulnasoft-labs/go-pep440-version"
+	"github.com/khulnasoft-lab/go-pep440-version"
 )
 
 func main() {

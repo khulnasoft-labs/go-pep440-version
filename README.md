@@ -1,7 +1,7 @@
 # go-pep440-version
-![Test](https://github.com/khulnasoft-labs/go-pep440-version/workflows/Test/badge.svg?branch=main)
-[![Go Report Card](https://goreportcard.com/badge/github.com/khulnasoft-labs/go-pep440-version)](https://goreportcard.com/report/github.com/khulnasoft-labs/go-pep440-version)
-![GitHub](https://img.shields.io/github/license/khulnasoft-labs/go-pep440-version)
+![Test](https://github.com/khulnasoft-lab/go-pep440-version/workflows/Test/badge.svg?branch=main)
+[![Go Report Card](https://goreportcard.com/badge/github.com/khulnasoft-lab/go-pep440-version)](https://goreportcard.com/report/github.com/khulnasoft-lab/go-pep440-version)
+![GitHub](https://img.shields.io/github/license/khulnasoft-lab/go-pep440-version)
 
 A golang library for parsing PEP 440 compliant Python versions
 
